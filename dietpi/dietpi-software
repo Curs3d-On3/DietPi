@@ -1193,7 +1193,7 @@ Available commands:
 		aSOFTWARE_DOCS[$software_id]='https://dietpi.com/docs/software/system_stats/#homer'
 		aSOFTWARE_DEPS[$software_id]='webserver'
 		#------------------
-		software_id=
+		software_id=214
 		aSOFTWARE_NAME[$software_id]='Podman'
 		aSOFTWARE_DESC[$software_id]='Podman is an open source and daemonless tool for OCI containers'
 		aSOFTWARE_CATX[$software_id]=8
